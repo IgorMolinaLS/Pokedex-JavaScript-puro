@@ -1,24 +1,18 @@
-<h1 align="center">
-  ATUALIZADO: Como desenvolver uma pokedex em JavaScript
-</h1>
+Pokédex com JavaScript puro
 
-<h6 align="center">Como construir uma pokedex com JavaScript puro, sem frameworks.</h6>
-</br>
+![preview](./assets/preview/preview.PNG)
 
-[![Como desenvolver uma pokedex em JavaScript](assets/img/banner-video-pokemon-javascript.jpg)](https://youtu.be/uTNKsgJHboo)
+[Clique aqui para acessar](https://igormolinals.github.io/Pokedex-Javascript-Puro/)
 
-<h2 align="center">Link para o vídeo</h2>
+Projeto de pokédex usando JavaScript puro (O HTML e CSS já prontos) construído durante a vídeo aula do professor Roger Melo. 
+Nele desenvolvi tópicos avançados de JavaScript como enclausuramento, encapsulamento, boas práticas de programação, promises, async functions, DOMPurify e Intersection observers
 
-<p align="center">🔗 https://youtu.be/uTNKsgJHboo</p>
+Muito obrigado professor Roger pela aula! 
 
----
+[Clique aqui para acessar a aula do professor!](https://www.youtube.com/watch?v=uTNKsgJHboo)
+## Tecnologias
 
-<h2 align="center">Como baixar este repositório</h2>
+-JavaScript
 
-<p align="center">Para baixar este repositório em sua máquina, você pode clicar no botão verde "Code" (ali em cima) e fazer download do .zip ou, caso você tenha noções de Git, você pode forká-lo e/ou cloná-lo.</p> 
-
----
-
-<h2 align="center">Tem alguma dúvida ou sugestão?</h2>
-
-<p align="center">Envie um email para <a href="mailto:oi@rogermelo.com.br">oi@rogermelo.com.br</a></p>
+## Contato
+igoramil452@gmail.com
